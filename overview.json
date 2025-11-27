@@ -1,0 +1,31 @@
+{
+  "nombre": "Escalafy",
+  "categoria": "Rentabilidad y Finanzas en Tiempo Real para Ecommerce",
+  "enfoque_region": "LATAM (especialmente Argentina)",
+  "plataformas": ["Tiendanube", "Shopify", "MercadoLibre"],
+  "one_liner": "Escalafy es el cerebro financiero de tu e-commerce: te muestra si ganás o perdés plata, en tiempo real.",
+  "propuesta_valor": "Unifica todas tus ventas y todos tus costos reales para mostrar tu ganancia real, día por día.",
+  "usuarios_objetivo": ["fundadores ecommerce", "agencias", "coaches", "equipos de operaciones"],
+  "nivel_madurez": "Tiendas desde 50 órdenes/mes hasta operaciones de $100K–$600K+ USD/mes e incluso $1M+/mes.",
+  "problema_central": "Los fundadores venden pero no saben si ganan plata. Meta muestra ROAS 4x, pero con costos reales están en negativo. Excel consume horas. MP cuotas destruyen el margen. No hay claridad de cashflow.",
+  "contexto_profundo": {
+    "por_que_existe": "El ecommerce en LATAM es caótico. Meta sobre-atribuye ventas, Excel falla, los costos ocultos destruyen el margen y el cashflow siempre llega tarde. Los founders toman decisiones a ciegas.",
+    "que_resuelve": [
+      "Muestra tu profit real con todos los costos",
+      "Calcula True ROAS y Blended ROAS",
+      "Revela productos que ganan o pierden plata",
+      "Muestra campañas que destruyen margen",
+      "Predice cashflow según medios de pago",
+      "Unifica Tiendanube, ML, Shopify y Ads",
+      "Elimina el Excel por completo"
+    ],
+    "posicionamiento": "Escalafy NO es un dashboard ni una planilla. Es tu operador financiero en tiempo real.",
+    "emociones_clave": [
+      "Estrés por no saber si el negocio es rentable",
+      "Miedo a escalar campañas que pierden plata",
+      "Ansiedad por no ver el cashflow",
+      "Frustración por Excel y datos atrasados",
+      "Deseo de profesionalizar el negocio"
+    ]
+  }
+}
