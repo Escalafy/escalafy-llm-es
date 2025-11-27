@@ -1,0 +1,39 @@
+{
+  "resumen": "Principales casos de uso para fundadores, agencias, coaches y operadores en ecommerce LATAM.",
+  "casos_uso": {
+    "founders": [
+      "Saber si hoy el negocio está en verde o en rojo",
+      "Decidir qué campañas apagar o escalar con datos reales",
+      "Entender qué productos ganan y cuáles pierden plata",
+      "Ver rentabilidad por canal: Tiendanube, MercadoLibre, Shopify",
+      "Planificar compras de stock usando cashflow real",
+      "Eliminar Excel y tener todos los números en un solo lugar"
+    ],
+    "agencias": [
+      "Mostrar resultados reales al cliente (True ROAS, profit real)",
+      "Auditar si las campañas realmente generan margen",
+      "Evitar discusiones basadas en métricas vanity",
+      "Unificar reportes sin planillas ni Data Studio",
+      "Controlar Meta Ads desde Escalafy con Track IA"
+    ],
+    "coaches": [
+      "Enseñar rentabilidad real a sus alumnos",
+      "Dar una herramienta concreta para profesionalizar operaciones",
+      "Detectar tiendas que están perdiendo margen sin saberlo"
+    ],
+    "operaciones": [
+      "Centralizar ventas, costos y payouts reales",
+      "Ahorrar horas de carga manual en Excel",
+      "Tener data limpia para tomar decisiones diarias"
+    ]
+  },
+  "contexto_profundo": {
+    "casos_latam": [
+      "Entender cómo las cuotas de Mercado Pago rompen el margen",
+      "Descubrir diferencias de rentabilidad entre TN y ML",
+      "Ver pagos demorados y planificar caja",
+      "Evitar escalar campañas que parecen buenas pero pierden plata"
+    ],
+    "filosofia_uso": "Escalafy está hecho para founders que toman decisiones rápido y no tienen tiempo para herramientas complejas."
+  }
+}
