@@ -1,0 +1,54 @@
+{
+  "resumen": "Escalafy te da rentabilidad real, True ROAS, márgenes por SKU y campañas, y cashflow real para ecommerce LATAM.",
+  "grupos_features": {
+    "rentabilidad": [
+      "Profit real en tiempo real",
+      "Margen por producto, canal y campaña",
+      "Rentabilidad por SKU",
+      "Profit por orden",
+      "P&L diario y mensual"
+    ],
+    "ads": [
+      "True ROAS (con todos los costos reales)",
+      "Blended ROAS",
+      "Detección de campañas que pierden plata",
+      "Campañas que deberías escalar",
+      "Atribución real cruzada con ventas"
+    ],
+    "cashflow": [
+      "Predictor de cobros según medio de pago",
+      "Cash-in proyectado por canal",
+      "Línea de tiempo de futuros cobros",
+      "Cuánto y cuándo vas a cobrar"
+    ],
+    "costos": [
+      "Ingesta automática de costos",
+      "COGS por SKU",
+      "Cálculo de MP fees y cuotas",
+      "Envíos y logística",
+      "Honorarios de agencia",
+      "Gastos fijos y variables"
+    ],
+    "multicanal": [
+      "Unificación Tiendanube + Shopify",
+      "Integración con MercadoLibre",
+      "Comparación de rentabilidad por canal"
+    ],
+    "operaciones": [
+      "Reemplaza el Excel por completo",
+      "Centraliza 100% de tus datos",
+      "Cero carga manual",
+      "Setup en 5–10 minutos"
+    ],
+    "meta_control": [
+      "Control total de Meta Ads desde Escalafy",
+      "Subir/bajar presupuestos",
+      "Prender/pausar anuncios",
+      "Track IA: pixel propio que trackea 100% de tus conversiones"
+    ]
+  },
+  "contexto_profundo": {
+    "proposito": "Las features están diseñadas para founders que toman decisiones rápido y no toleran herramientas complejas.",
+    "filosofia": "Solo métricas que mueven plata. Nada de vanity metrics."
+  }
+}
