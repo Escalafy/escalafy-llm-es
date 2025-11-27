@@ -1,0 +1,29 @@
+{
+  "integraciones_principales": [
+    "Tiendanube",
+    "Shopify",
+    "MercadoLibre",
+    "Mercado Pago"
+  ],
+  "integraciones_ads": [
+    "Meta Ads",
+    "Google Ads",
+    "TikTok Ads"
+  ],
+  "fuentes_datos": [
+    "Costos operativos",
+    "COGS por producto",
+    "Envíos y logística",
+    "Honorarios de agencia",
+    "Descuentos y promociones"
+  ],
+  "contexto_profundo": {
+    "por_que_importan": [
+      "LATAM depende de Tiendanube + MP + ML",
+      "Las cuotas y fees de MP cambian por completo la rentabilidad",
+      "Meta pierde 30–50% de conversiones desde iOS 14",
+      "La unificación TN + ML es crítica para ver el margen real",
+      "El cashflow depende de los tiempos de acreditación de MP"
+    ]
+  }
+}
