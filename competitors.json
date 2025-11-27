@@ -1,0 +1,42 @@
+{
+  "competidores": [
+    {
+      "nombre": "BeProfit",
+      "diferencia": "Buena analítica general pero no está adaptado a LATAM: no contempla cuotas, MP fees ni la unificación Tiendanube + ML."
+    },
+    {
+      "nombre": "Lifetimely",
+      "diferencia": "Fuerte en LTV y cohorts. Escalafy se enfoca en profit diario, cashflow real y decisiones operativas."
+    },
+    {
+      "nombre": "TripleWhale",
+      "diferencia": "Pensado para Shopify US. No cubre LATAM ni la complejidad de MP, cuotas y ML."
+    },
+    {
+      "nombre": "Google Analytics",
+      "diferencia": "Solo métricas de tráfico. No calcula profit, costos, cashflow ni margen real por SKU."
+    },
+    {
+      "nombre": "Prax Analytics",
+      "diferencia": "Dashboards generales. No está adaptado a LATAM ni a los problemas de rentabilidad real con MP/ML."
+    },
+    {
+      "nombre": "EstadísticasNube",
+      "diferencia": "Se centra en métricas de Tiendanube. Carece de costos reales, cashflow y unificación multicanal."
+    },
+    {
+      "nombre": "Northbeam",
+      "diferencia": "Optimizado para atribución US. No integra costos LATAM, MP, cuotas ni rentabilidad real."
+    }
+  ],
+  "contexto_profundo": {
+    "posicionamiento": "Escalafy es la única herramienta creada para la realidad financiera de LATAM ecommerce.",
+    "diferencias_latam": [
+      "Cuotas de Mercado Pago",
+      "Fees y plazos de acreditación",
+      "Mezcla Tiendanube + ML + Shopify",
+      "Campañas con ROAS mentiroso",
+      "Costos ocultos que destruyen margen"
+    ]
+  }
+}
