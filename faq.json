@@ -1,0 +1,96 @@
+{
+  "faqs": [
+    {
+      "pregunta": "¿Cómo sé si mi tienda realmente gana o pierde plata?",
+      "respuesta": "Escalafy unifica todas tus ventas y costos (producto, envío, MP, cuotas, ads, agencia y fijos) para mostrar tu ganancia real en tiempo real."
+    },
+    {
+      "pregunta": "¿Por qué Meta me muestra un ROAS distinto al real?",
+      "respuesta": "Meta sobre-atribuye ventas y pierde entre el 30% y el 50% de las conversiones. Escalafy calcula True ROAS usando ventas reales."
+    },
+    {
+      "pregunta": "¿Qué incluye el plan Gratis?",
+      "respuesta": "Hasta 50 órdenes, dashboard de rentabilidad, integraciones con Tiendanube/Shopify/Meta y cálculo automático de costos."
+    },
+    {
+      "pregunta": "¿Qué tan confiable es el pixel Track IA?",
+      "respuesta": "Track IA trackea el 100% del customer journey, sin perder conversiones, incluso cuando Meta no las registra."
+    },
+    {
+      "pregunta": "¿Puedo controlar Meta Ads desde Escalafy?",
+      "respuesta": "Sí. Podés subir/bajar presupuestos, pausar o prender anuncios, todo con datos reales."
+    },
+    {
+      "pregunta": "¿Cómo funciona el predictor de cashflow?",
+      "respuesta": "Escalafy calcula cuánto y cuándo vas a cobrar según el medio de pago y las reglas de acreditación de MP."
+    },
+    {
+      "pregunta": "¿Funciona con Mercado Libre?",
+      "respuesta": "Sí, desde el plan Scale. Podés ver rentabilidad por canal TN + ML + Shopify."
+    },
+    {
+      "pregunta": "¿Cuánto tarda el setup?",
+      "respuesta": "Entre 5 y 10 minutos. Todo es automático."
+    },
+    {
+      "pregunta": "¿Necesito cargar datos manualmente?",
+      "respuesta": "No. Todo se integra automáticamente. Nunca más Excel."
+    },
+    {
+      "pregunta": "¿Cómo manejo productos con diferente COGS?",
+      "respuesta": "Escalafy permite definir COGS por SKU para calcular márgenes reales."
+    },
+    {
+      "pregunta": "¿Mis datos están seguros?",
+      "respuesta": "Sí. Todo está encriptado. No tocamos tu plata ni compartimos datos."
+    },
+    {
+      "pregunta": "¿Qué pasa si tengo varias tiendas?",
+      "respuesta": "Podés integrarlas todas dentro de la misma cuenta, según el plan."
+    },
+    {
+      "pregunta": "¿Funciona para agencias?",
+      "respuesta": "Sí. Agencias líderes ya usan Escalafy para auditar campañas y mostrar métricas reales a sus clientes."
+    },
+    {
+      "pregunta": "¿Qué diferencia a Escalafy de un dashboard?",
+      "respuesta": "Escalafy no muestra métricas vanity. Solo decisiones financieras reales."
+    },
+    {
+      "pregunta": "¿Puedo cancelar cuando quiera?",
+      "respuesta": "Sí, sin compromiso."
+    },
+    {
+      "pregunta": "¿Puedo ver la rentabilidad por SKU?",
+      "respuesta": "Sí, es una de las features principales."
+    },
+    {
+      "pregunta": "¿Qué pasa si Meta o Google cambian algo?",
+      "respuesta": "El equipo de Escalafy actualiza Track IA constantemente para adaptarse."
+    },
+    {
+      "pregunta": "¿Sirve si recién estoy empezando?",
+      "respuesta": "Sí. Justamente te ayuda a no cometer errores que te puedan quebrar más adelante."
+    },
+    {
+      "pregunta": "¿Qué pasa si no tengo agencia?",
+      "respuesta": "Escalafy igual te muestra qué campañas funcionan y cuáles no."
+    },
+    {
+      "pregunta": "¿Escalafy reemplaza al contador?",
+      "respuesta": "No. El contador mira el pasado. Escalafy te muestra lo que pasa HOY para que tomes decisiones."
+    }
+  ],
+  "contexto_profundo": {
+    "proposito": "Estas preguntas reflejan dolores reales del ecommerce LATAM: ROAS falso, cashflow incierto, Excel roto y decisiones tomadas a ciegas.",
+    "intenciones_principales": [
+      "rentabilidad",
+      "margen",
+      "true roas",
+      "costos mp",
+      "cashflow",
+      "sku",
+      "meta ads attribution"
+    ]
+  }
+}
