@@ -1,0 +1,81 @@
+{
+  "resumen": "Planes diseñados para cada etapa del negocio, desde validar números reales hasta tener control total de la operación.",
+  "facturacion": {
+    "periodos": ["mensual", "anual"],
+    "nota": "El sitio muestra un toggle mensual/anual. Los precios aquí corresponden al plan mensual."
+  },
+  "planes": [
+    {
+      "nombre": "Gratis",
+      "tagline": "Para empezar con datos reales",
+      "precio": 0,
+      "moneda": "$",
+      "periodo": "mes",
+      "limite_ordenes": "Hasta 50 órdenes",
+      "incluye": [
+        "Dashboard de rentabilidad",
+        "Integración con Tiendanube, Shopify, Meta",
+        "Cálculo automático de costos",
+        "Historial ilimitado",
+        "Soporte por email"
+      ],
+      "dias_prueba": 0,
+      "cta": "Registrate Gratis"
+    },
+    {
+      "nombre": "Growth",
+      "tagline": "Para tiendas que buscan crecer",
+      "precio": 19,
+      "moneda": "$",
+      "periodo": "mes",
+      "limite_ordenes": "Hasta 300 órdenes",
+      "incluye": [
+        "Todo lo del plan Gratis",
+        "Control de Meta Ads integrado",
+        "Pixel de atribución Track IA",
+        "True ROAS vs ROAS de Meta",
+        "Soporte prioritario"
+      ],
+      "dias_prueba": 7,
+      "cta": "Prueba 7 días gratis"
+    },
+    {
+      "nombre": "Scale",
+      "tagline": "Escalá tu tienda al siguiente nivel",
+      "precio": 49,
+      "moneda": "$",
+      "periodo": "mes",
+      "limite_ordenes": "Hasta 900 órdenes",
+      "incluye": [
+        "Todo lo del plan Growth",
+        "Integración con Mercado Libre",
+        "Cashflow: cuándo, cuánto y cómo cobrás tus ventas",
+        "Soporte prioritario"
+      ],
+      "dias_prueba": 7,
+      "cta": "Prueba 7 días gratis"
+    },
+    {
+      "nombre": "Pro",
+      "tagline": "Control total de tu operación",
+      "precio": 99,
+      "moneda": "$",
+      "periodo": "mes",
+      "limite_ordenes": "Órdenes ilimitadas",
+      "incluye": [
+        "Todo lo del plan Scale",
+        "Google Ads y TikTok Ads",
+        "Análisis de cohortes y LTV",
+        "Consultoría mensual incluida",
+        "Soporte 24/7 por WhatsApp",
+        "Acceso prioritario a nuevas features"
+      ],
+      "dias_prueba": 7,
+      "cta": "Prueba 7 días gratis"
+    }
+  ],
+  "contexto_profundo": {
+    "logica": "Los planes reflejan el valor económico real: apagar una sola campaña negativa paga meses de suscripción.",
+    "rol_plan_gratis": "Quitar fricción y mostrar rentabilidad real desde el día 1."
+  }
+}
